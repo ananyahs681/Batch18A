@@ -12,3 +12,5 @@ print("lets test merge conflict")
 calculator = 10
 if calculator == 78:
     print("ok")
+
+print("This is a test for merge conflict")
